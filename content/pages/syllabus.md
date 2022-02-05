@@ -32,18 +32,183 @@ Students were graded on the following:
 Calendar
 --------
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction | &nbsp; |
-| 2 | The Wittgensteinian Legacy | &nbsp; |
-| 3 | Inner Sense I | &nbsp; |
-| 4 | Inner Sense II, and Shoemaker's Rationalism | &nbsp; |
-| 5 | Ryleanism | &nbsp; |
-| 6 | Transparency I | Guest: [Prof. Richard Moran](http://www.people.fas.harvard.edu/~moran/index.html), Harvard University |
-| 7 | Transparency II | Guest: [Prof. Matt Boyle](https://www.radcliffe.harvard.edu/people/matthew-boyle), Harvard University |
-| 8 | Sensation | Guest: [Prof. Brie Gertler](http://philosophy.virginia.edu/faculty/profile/bg8y), University of Virginia |
-| 9 | Perception | &nbsp; |
-| 10 | Review Session | &nbsp; |
-| 11 | Neo-expressivism | Guest: [Prof. Dorit Bar-On](http://www.doritbar-on.com/), University of Connecticut |
-| 12 | Desire and Emotion | &nbsp; |
-| 13 | Intention |  {{< br >}}{{< br >}} In-class student presentations {{< br >}}{{< br >}} Final paper due 6 days after Session 13 {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+The Wittgensteinian Legacy
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Inner Sense I
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Inner Sense II, and Shoemaker's Rationalism
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Ryleanism
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Transparency I
+{{< tdclose >}}
+{{< tdopen >}}
+Guest: [Prof. Richard Moran](http://www.people.fas.harvard.edu/~moran/index.html), Harvard University
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Transparency II
+{{< tdclose >}}
+{{< tdopen >}}
+Guest: [Prof. Matt Boyle](https://www.radcliffe.harvard.edu/people/matthew-boyle), Harvard University
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Sensation
+{{< tdclose >}}
+{{< tdopen >}}
+Guest: [Prof. Brie Gertler](http://philosophy.virginia.edu/faculty/profile/bg8y), University of Virginia
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Perception
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Review Session
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Neo-expressivism
+{{< tdclose >}}
+{{< tdopen >}}
+Guest: [Prof. Dorit Bar-On](http://www.doritbar-on.com/), University of Connecticut
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Desire and Emotion
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Intention
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+In-class student presentations
+
+Final paper due 6 days after Session 13
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
