@@ -48,7 +48,7 @@ The Wittgensteinian Legacy
 {{< tdopen >}}
 
 
-Wittgenstein, Ludwig. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Philosophical Investigations." (PDF - 2.5MB)](http://static1.squarespace.com/static/54889e73e4b0a2c1f9891289/t/564b61a4e4b04eca59c4d232/1447780772744/Ludwig.Wittgenstein.-.Philosophical.Investigations.pdf) _Basil Blackwell Limited_, 1958.
+Wittgenstein, Ludwig. ["Philosophical Investigations." (PDF - 2.5MB)](http://static1.squarespace.com/static/54889e73e4b0a2c1f9891289/t/564b61a4e4b04eca59c4d232/1447780772744/Ludwig.Wittgenstein.-.Philosophical.Investigations.pdf) _Basil Blackwell Limited_, 1958.
 
 Wright, Crispin. "[Self-Knowledge: The Wittgensteinian Legacy](http://dx.doi.org/10.1093/0199241406.003.0002)." _Oxford Scholarship Online_, 2000.
 
@@ -162,7 +162,7 @@ Transparency II
 {{< tdopen >}}
 
 
-Boyle, Matthew. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Transparency and Reflection." (PDF)](https://www.tandfonline.com/doi/full/10.1080/00455091.2019.1565621)
+Boyle, Matthew. ["Transparency and Reflection." (PDF)](https://www.tandfonline.com/doi/full/10.1080/00455091.2019.1565621)
 
 ———. "[Transparent Self-Knowledge](http://dx.doi.org/10.1111/j.1467-8349.2011.00204.x)." _Aristotelian Society Supplementary Volume_ 85, no. 1 (2011): 223–41.
 
@@ -292,7 +292,7 @@ Paul, Sarah K. "[The Transparency of Intention](http://link.springer.com/article
 
 Setiya, Kieran. "Knowledge of Intention." In _Essays on Anscombe's Intention_. Harvard University Press, 2011, pp. 170–97. ISBN: 9780674051027. \[Preview with [Google Books](http://books.google.com/books?id=6YRyLrPlBN4C&pg=PA180#v=onepage)\]
 
-Byrne, Alex. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Transparency, Belief, Intention." (PDF)](http://aristoteliansupp.oxfordjournals.org/content/aristoteliansup/85/1/201.full.pdf) _Aristotelian Society Supplementary Volume_ 85, no. 1 (2011): 201–21.
+Byrne, Alex. ["Transparency, Belief, Intention." (PDF)](http://aristoteliansupp.oxfordjournals.org/content/aristoteliansup/85/1/201.full.pdf) _Aristotelian Society Supplementary Volume_ 85, no. 1 (2011): 201–21.
 
 
 {{< tdclose >}}
