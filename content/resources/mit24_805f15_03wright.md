@@ -4,6 +4,7 @@ description: 'This is a file that contains information regarding topics in epist
   self-knowledge wright and mcDowell II.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/24-805-topics-in-epistemology-self-knowledge-fall-2015/1e584324d5a347d616243f38a3830fcb_MIT24_805F15_03Wright.pdf
 file_type: application/pdf
+parent_uid: 1b066d30-c882-205c-8cf4-76dcc44ccafb
 resourcetype: Document
 title: 24.805F15 03 Wright and McDowell II
 uid: 1e584324-d5a3-47d6-1624-3f38a3830fcb
